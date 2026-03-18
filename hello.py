@@ -1,3 +1,3 @@
 print("Hello GitHub")
-name = "Ramya Bhoopathi"
+name = "Ramya";
 print("Hello", name)
